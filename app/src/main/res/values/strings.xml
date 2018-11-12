@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">HelloKotlin</string>
+
+    <string-array name="club_name">
+        <item>Ajax FC</item>
+        <item>Atletico Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Chelsea FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>Real Madrid FC</item>
+        <item>ParisSaint Germain FC</item>
+        <item>Schalke FC</item>
+
+        <item>Arsenal FC</item>
+        <item>Dortmund FC</item>
+        <item>Galatasaray FC</item>
+        <item>Liverpool FC</item>
+        <item>Lyon FC</item>
+        <item>Porto FC</item>
+        <item>Tottenham FC</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/ajax</item>
+        <item>@drawable/atleticomadrid</item>
+        <item>@drawable/bayern</item>
+        <item>@drawable/chelsea</item>
+        <item>@drawable/city</item>
+        <item>@drawable/madrid</item>
+        <item>@drawable/mu</item>
+        <item>@drawable/psg</item>
+        <item>@drawable/schalke</item>
+
+        <item>@drawable/arsenal</item>
+        <item>@drawable/dortmund</item>
+        <item>@drawable/galatasaray</item>
+        <item>@drawable/liverpool</item>
+        <item>@drawable/lyon</item>
+        <item>@drawable/porto</item>
+        <item>@drawable/tottenham</item>
+    </array>
+</resources>
